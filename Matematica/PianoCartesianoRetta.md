@@ -63,7 +63,8 @@ Si può determinare l'equazione di una retta in vari modi:
   - Il punto di intersezione si trova risolvendo il sistema di equazioni
 
 - **Distanza di un punto P₀(x₀, y₀) da una retta** ax + by + c = 0:
-  - d = |ax₀ + by₀ + c| / √(a² + b²)![alt text](images/intersezione-distanza.png)
+$$ d=\dfrac{\left|ax_0+by_0+c\right|}{\sqrt{a^2+b^2}} $$
+![alt text](images/intersezione-distanza.png)
 
 ## I fasci di rette
 
@@ -84,3 +85,5 @@ Un fascio di rette è un insieme di rette che soddisfano una certa proprietà.
 I fasci di rette sono utili in problemi geometrici e nella risoluzione di sistemi lineari, poiché rappresentano tutte le possibili combinazioni lineari di due rette.
 
 ![alt text](images/mappa-concettuale-piano-cartesiano-retta.png)
+
+[Esercizi](PianoCartesianoRettaEsercizi.md)
