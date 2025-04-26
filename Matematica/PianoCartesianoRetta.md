@@ -76,6 +76,7 @@ Un fascio di rette è un insieme di rette che soddisfano una certa proprietà.
 
 2. **Fascio di rette improprio** (o fascio di rette parallele):
    - Tutte le rette sono parallele tra loro
-   - Equazione: ax + by + c = 0, dove a e b sono fissati (non entrambi nulli) e c varia
+   - Equazione: $$ax + by + c = 0$$
+   dove a e b sono fissati (non entrambi nulli) e c varia
 
 I fasci di rette sono utili in problemi geometrici e nella risoluzione di sistemi lineari, poiché rappresentano tutte le possibili combinazioni lineari di due rette.
