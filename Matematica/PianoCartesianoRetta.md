@@ -7,8 +7,7 @@ Il piano cartesiano è formato da due assi perpendicolari: l'asse x (orizzontale
 
 - **Punto**: Un punto P(x, y) rappresenta una posizione precisa nel piano
 - **Distanza tra due punti**: Se abbiamo P₁(x₁, y₁) e P₂(x₂, y₂), la distanza tra loro è: $$d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
-- **Punto medio**: Il punto medio del segmento P₁P₂ ha coordinate
-$$ (\dfrac{(x₁+x₂)}{2}, \dfrac{(y₁+y₂)}{2}) $$
+- **Punto medio**: Il punto medio del segmento P₁P₂ ha coordinate $$(\dfrac{(x₁+x₂)}{2}, \dfrac{(y₁+y₂)}{2})$$
 
 ## 🟰 Caratteristiche dell'equazione di una retta
 
@@ -19,7 +18,7 @@ Una retta nel piano cartesiano può essere rappresentata in diverse forme:
    - q: termine noto (intercetta con l'asse y) ![alt text](images/retta-piano-cartesiano.png)
 
 2. **Forma implicita**: ax + by + c = 0
-   - Se b ≠ 0, possiamo ricavare la forma esplicita: $$ y= -\dfrac{a}{b}x -\dfrac{c}{b} $$
+   - Se b ≠ 0, possiamo ricavare la forma esplicita: $$y= -\dfrac{a}{b}x -\dfrac{c}{b}$$
    - Se b = 0, otteniamo $$x = -\dfrac{c}{a}$$ (retta parallela all'asse y)
 
 3. **Forma parametrica**:$$x = x₀ + t·cosα$$ $$y = y₀ + t·sinα$$
@@ -64,7 +63,7 @@ Si può determinare l'equazione di una retta in vari modi:
   - Il punto di intersezione si trova risolvendo il sistema di equazioni
 
 - **Distanza di un punto P₀(x₀, y₀) da una retta** ax + by + c = 0:
-$$ d=\dfrac{\left|ax_0+by_0+c\right|}{\sqrt{a^2+b^2}} $$
+$$d=\dfrac{\left|ax_0+by_0+c\right|}{\sqrt{a^2+b^2}}$$
 ![alt text](images/intersezione-distanza.png)
 
 ## ☦️ I fasci di rette
