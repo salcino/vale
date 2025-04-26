@@ -4,9 +4,10 @@
 
 Il piano cartesiano è formato da due assi perpendicolari: l'asse x (orizzontale) e l'asse y (verticale). Ogni punto P nel piano è identificato da una coppia ordinata di coordinate (x, y).
 ![alt text](images/coordinate-cartesiane.png)
+
 - **Punto**: Un punto P(x, y) rappresenta una posizione precisa nel piano
-- **Distanza tra due punti**: Se abbiamo P₁(x₁, y₁) e P₂(x₂, y₂), la distanza tra loro è: d = √[(x₂-x₁)² + (y₂-y₁)²]
-- **Punto medio**: Il punto medio del segmento P₁P₂ ha coordinate ((x₁+x₂)/2, (y₁+y₂)/2)
+- **Distanza tra due punti**: Se abbiamo P₁(x₁, y₁) e P₂(x₂, y₂), la distanza tra loro è: $$d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
+- **Punto medio**: Il punto medio del segmento P₁P₂ ha coordinate $$ (\dfrac{(x₁+x₂)}{2}, \dfrac{(y₁+y₂)}{2}) $$
 
 ## Caratteristiche dell'equazione di una retta
 
@@ -14,13 +15,14 @@ Una retta nel piano cartesiano può essere rappresentata in diverse forme:
 
 1. **Forma esplicita**: y = mx + q
    - m: coefficiente angolare (pendenza)
-   - q: termine noto (intercetta con l'asse y)
+   - q: termine noto (intercetta con l'asse y) ![alt text](images/retta-piano-cartesiano.png)
 
 2. **Forma implicita**: ax + by + c = 0
-   - Se b ≠ 0, possiamo ricavare la forma esplicita: y = (-a/b)x + (-c/b)
-   - Se b = 0, otteniamo x = -c/a (retta parallela all'asse y)
+   - Se b ≠ 0, possiamo ricavare la forma esplicita: $$ y= -\dfrac{a}{b}x -\dfrac{c}{b} $$
+   - Se b = 0, otteniamo $$x = -\dfrac{c}{a}$$ (retta parallela all'asse y)
 
-3. **Forma parametrica**: x = x₀ + t·cosα, y = y₀ + t·sinα
+3. **Forma parametrica**:$$x = x₀ + t·cosα$$ $$y = y₀ + t·sinα$$
+
    - (x₀, y₀) è un punto della retta
    - α è l'angolo che la retta forma con l'asse x
    - t è il parametro
@@ -36,7 +38,7 @@ Una retta nel piano cartesiano può essere rappresentata in diverse forme:
 
 - **Relazioni tra rette**:
   - Due rette con coefficienti angolari m₁ e m₂ sono **parallele** se e solo se m₁ = m₂
-  - Due rette sono **perpendicolari** se e solo se m₁ · m₂ = -1 (quando entrambi i coefficienti sono definiti)
+  - Due rette sono **perpendicolari** se e solo se m₁ · m₂ = -1 (quando entrambi i coefficienti sono definiti)![alt text](images/parallelismo-perpendicolarita.png)
 
 ## Scrittura di un'equazione della retta
 
@@ -78,3 +80,5 @@ Un fascio di rette è un insieme di rette che soddisfano una certa proprietà.
    dove a e b sono fissati (non entrambi nulli) e c varia
 
 I fasci di rette sono utili in problemi geometrici e nella risoluzione di sistemi lineari, poiché rappresentano tutte le possibili combinazioni lineari di due rette.
+
+![alt text](images/riassunto.png)
