@@ -7,7 +7,8 @@ Il piano cartesiano è formato da due assi perpendicolari: l'asse x (orizzontale
 
 - **Punto**: Un punto P(x, y) rappresenta una posizione precisa nel piano
 - **Distanza tra due punti**: Se abbiamo P₁(x₁, y₁) e P₂(x₂, y₂), la distanza tra loro è: $$d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
-- **Punto medio**: Il punto medio del segmento P₁P₂ ha coordinate $$ (\dfrac{(x₁+x₂)}{2}, \dfrac{(y₁+y₂)}{2}) $$
+- **Punto medio**: Il punto medio del segmento P₁P₂ ha coordinate
+$$ (\dfrac{(x₁+x₂)}{2}, \dfrac{(y₁+y₂)}{2}) $$
 
 ## 🟰 Caratteristiche dell'equazione di una retta
 
