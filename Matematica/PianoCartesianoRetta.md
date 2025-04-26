@@ -1,6 +1,6 @@
-# Il Piano Cartesiano e la Retta
+# 📈 Il Piano Cartesiano e la Retta
 
-## Punti e segmenti nel piano cartesiano
+## 🔵 Punti e segmenti nel piano cartesiano
 
 Il piano cartesiano è formato da due assi perpendicolari: l'asse x (orizzontale) e l'asse y (verticale). Ogni punto P nel piano è identificato da una coppia ordinata di coordinate (x, y).
 ![alt text](images/coordinate-cartesiane.png)
@@ -9,7 +9,7 @@ Il piano cartesiano è formato da due assi perpendicolari: l'asse x (orizzontale
 - **Distanza tra due punti**: Se abbiamo P₁(x₁, y₁) e P₂(x₂, y₂), la distanza tra loro è: $$d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
 - **Punto medio**: Il punto medio del segmento P₁P₂ ha coordinate $$ (\dfrac{(x₁+x₂)}{2}, \dfrac{(y₁+y₂)}{2}) $$
 
-## Caratteristiche dell'equazione di una retta
+## 🟰 Caratteristiche dell'equazione di una retta
 
 Una retta nel piano cartesiano può essere rappresentata in diverse forme:
 
@@ -27,7 +27,7 @@ Una retta nel piano cartesiano può essere rappresentata in diverse forme:
    - α è l'angolo che la retta forma con l'asse x
    - t è il parametro
 
-## Il coefficiente angolare e le relazioni di parallelismo e perpendicolarità
+## // Il coefficiente angolare e le relazioni di parallelismo e perpendicolarità
 
 - **Coefficiente angolare (m)**: Rappresenta la pendenza della retta e corrisponde alla tangente dell'angolo che la retta forma con l'asse x positivo
   - m = tanα = (y₂-y₁)/(x₂-x₁) per due punti P₁ e P₂ sulla retta
@@ -40,7 +40,7 @@ Una retta nel piano cartesiano può essere rappresentata in diverse forme:
   - Due rette con coefficienti angolari m₁ e m₂ sono **parallele** se e solo se m₁ = m₂
   - Due rette sono **perpendicolari** se e solo se m₁ · m₂ = -1 (quando entrambi i coefficienti sono definiti)![alt text](images/parallelismo-perpendicolarita.png)
 
-## Scrittura di un'equazione della retta
+## ✏️ Scrittura di un'equazione della retta
 
 Si può determinare l'equazione di una retta in vari modi:
 
@@ -55,7 +55,7 @@ Si può determinare l'equazione di una retta in vari modi:
 3. **Dati il coefficiente angolare m e l'intercetta q**:
    - y = mx + q
 
-## L'intersezione tra due rette e la distanza di un punto dalla retta
+## ✝️ L'intersezione tra due rette e la distanza di un punto dalla retta
 
 - **Intersezione tra due rette**:
   - Data r₁: a₁x + b₁y + c₁ = 0 e r₂: a₂x + b₂y + c₂ = 0
@@ -66,7 +66,7 @@ Si può determinare l'equazione di una retta in vari modi:
 $$ d=\dfrac{\left|ax_0+by_0+c\right|}{\sqrt{a^2+b^2}} $$
 ![alt text](images/intersezione-distanza.png)
 
-## I fasci di rette
+## ☦️ I fasci di rette
 
 Un fascio di rette è un insieme di rette che soddisfano una certa proprietà.
 
@@ -86,4 +86,4 @@ I fasci di rette sono utili in problemi geometrici e nella risoluzione di sistem
 
 ![alt text](images/mappa-concettuale-piano-cartesiano-retta.png)
 
-[Esercizi](PianoCartesianoRettaEsercizi.md)
+📒 [Esercizi](PianoCartesianoRettaEsercizi.md)
