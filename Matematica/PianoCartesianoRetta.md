@@ -83,6 +83,4 @@ Un fascio di rette è un insieme di rette che soddisfano una certa proprietà.
 
 I fasci di rette sono utili in problemi geometrici e nella risoluzione di sistemi lineari, poiché rappresentano tutte le possibili combinazioni lineari di due rette.
 
-![alt text](images/riassunto.png)
-
 ![alt text](images/mappa-concettuale-piano-cartesiano-retta.png)
