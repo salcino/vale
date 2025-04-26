@@ -1,11 +1,9 @@
 # Il Piano Cartesiano e la Retta
 
-Ecco una spiegazione completa sui concetti che hai richiesto:
-
 ## Punti e segmenti nel piano cartesiano
 
 Il piano cartesiano è formato da due assi perpendicolari: l'asse x (orizzontale) e l'asse y (verticale). Ogni punto P nel piano è identificato da una coppia ordinata di coordinate (x, y).
-
+![alt text](images/coordinate-cartesiane.png)
 - **Punto**: Un punto P(x, y) rappresenta una posizione precisa nel piano
 - **Distanza tra due punti**: Se abbiamo P₁(x₁, y₁) e P₂(x₂, y₂), la distanza tra loro è: d = √[(x₂-x₁)² + (y₂-y₁)²]
 - **Punto medio**: Il punto medio del segmento P₁P₂ ha coordinate ((x₁+x₂)/2, (y₁+y₂)/2)
