@@ -21,7 +21,9 @@ Una retta nel piano cartesiano può essere rappresentata in diverse forme:
    - Se b ≠ 0, possiamo ricavare la forma esplicita: $$y= -\dfrac{a}{b}x -\dfrac{c}{b}$$
    - Se b = 0, otteniamo $$x = -\dfrac{c}{a}$$ (retta parallela all'asse y)
 
-3. **Forma parametrica**:$$x = x₀ + t·cosα$$ $$y = y₀ + t·sinα$$
+3. **Forma parametrica**:
+ $$x = x₀ + t·cosα$$
+ $$y = y₀ + t·sinα$$
 
    - (x₀, y₀) è un punto della retta
    - α è l'angolo che la retta forma con l'asse x
