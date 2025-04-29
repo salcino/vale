@@ -31,12 +31,7 @@
 
 16. Trova il punto di intersezione tra le rette y = 2x + 3 e y = -x + 1.
 17. Verifica se le rette y = x - 2 e y = x + 5 si intersecano.
-18. Risolvi il sistema:
-
-   $$
-   2x - y = 3 \\
-   x + y = 1
-   $$
+18. Risolvi il sistema: 2x - y = 3 e x + y = 1
 
 ## Distanza di un Punto da una Retta
 
