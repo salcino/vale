@@ -47,8 +47,8 @@ Una retta nel piano cartesiano può essere rappresentata in diverse forme:
 Si può determinare l'equazione di una retta in vari modi:
 
 1. **Dati due punti** P₁(x₁, y₁) e P₂(x₂, y₂):
-   - Calcolo il coefficiente angolare: m = (y₂-y₁)/(x₂-x₁)
-   - Uso la formula punto-pendenza: y - y₁ = m(x - x₁)
+   - Calcolo il coefficiente angolare: $$ m=\dfrac{y_2-y_1}{x_2-x_1} $$
+   - Uso la formula punto-pendenza: $$ \dfrac{y-y_1}{m(x-x_1)} $$
    - Sviluppando: y = mx + (y₁ - mx₁)
 
 2. **Dato un punto** P₀(x₀, y₀) e il **coefficiente angolare** m:
